@@ -1,7 +1,7 @@
-# Ciencia de Datos para políticas públicas UC V2022
-# Datos para la evaluación de Políticas Públicas 
+# Ciencia de datos para políticas públicas UC V2022
 # Escuela de Gobierno - Escuela de Ingeniería UC
-## Talleres prácticos en `R` y Test de código
+
+## Datos para la evaluación de Políticas Públicas 
 
 Clases: **Pablo Celhay** :mailbox_with_no_mail: pacelhay@uc.cl
 
@@ -12,9 +12,23 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:JDConejeros/DCPP_DEPP_v2022.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/JDConejeros/DCPP_DEPP_v2022/archive/refs/heads/main.zip)
 
-## Talleres
+### Clases 
 
-:pushpin:	 [Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple).
+:file_folder: [Clase semana 1: Regresión Bivariada](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana1) 
+
+:file_folder: [Clase semana 2: Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana2)
+
+:file_folder: [Clase semana 3: Experimentos aleatorios](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana3)
+
+:file_folder: [Clase semana 4: Variables Instrumentales](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
+
+:file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana5)
+
+:file_folder: [Clase semana 6: Matching, aprendizaje de Máquina e Inferencia Causal](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana6)
+
+### Talleres
+
+:pushpin:	[Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple).
 
 **Fecha: 20-08-2022**
 
@@ -43,7 +57,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 **Fecha: 05-11-2022**
 
 
-## Evaluaciones
+### Evaluaciones
 
 **Pablo Celhay** :mailbox_with_no_mail: pacelhay@uc.cl
 
@@ -59,7 +73,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 - :pushpin: [Tarea 2](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea2): Se envia por correo hasta el 22/10/2022 :bangbang:
 
 
-## Referencias y enlaces 
+### Referencias y enlaces 
 
 **Clases:**
 
@@ -80,14 +94,14 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 - [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
 
 
-## Comunidades y foros
+### Comunidades y foros
 
 Para los que alguna vez fuimos nuevos en RStudio sirve bastante ver las preguntas/respuestas de otras personas en las comunidades de R (¡son muy activas!). De hecho, casi todas nuestras preguntas ya fueron respondidas por personas en todo el mundo. No olvidar que la mayoría de estos foros están en inglés:
 
 + [RStudio Community](https://community.rstudio.com/)
 + [Stackoverflow](https://stackoverflow.com/questions/tagged/r)
 
-## Otros enlaces de interés
+### Otros enlaces de interés
 
 + [Compendio de links útiles](https://www.lecy.info/r-for-public-policy)
 + [Conectarse a Github desde R](https://happygitwithr.com/rstudio-git-github.html#clone-the-new-github-repository-to-your-computer-via-rstudio)
