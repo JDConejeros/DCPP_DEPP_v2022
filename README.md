@@ -26,36 +26,35 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 :file_folder: [Clase semana 6: Matching, aprendizaje de Máquina e Inferencia Causal](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana6)
 
+---
+
 ### Talleres
 
-:pushpin:	[Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple).
-
-**Fecha: 20-08-2022**
+:pushpin:	[Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple). **Fecha: 20-08-2022**
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/vzthiacogqxdbs1/AAAf0w9wy6_bdoat39qi6dFpa?dl=0)
 
-:pushpin:	[Taller 2: Regresión Múltiple y supuestos](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_2_RegMulti)
-
-**Fecha: 24-09-2022**
+:pushpin:	[Taller 2: Regresión Múltiple y supuestos](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_2_RegMulti) **Fecha: 24-09-2022**
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/74ejjqjlgtps1oo/AADjr_ljnwrqpFhH-bk5BwXIa?dl=0)
 
-:pushpin:	[Taller 3: Experimentos aleatorios]()
+:pushpin:	[Taller 3: Experimentos aleatorios]() **Fecha: 29-09-2022**
 
-**Fecha: 29-09-2022**
+- :bar_chart: [Datos]()
 
-:pushpin:	[Taller 4: Variables Instrumentales]()
+:pushpin:	[Taller 4: Variables Instrumentales]() **Fecha: 08-10-2022**
 
-**Fecha: 08-10-2022**
+- :bar_chart: [Datos]()
 
-:pushpin:	[Taller 5: Regresión discontinua]()
+:pushpin:	[Taller 5: Regresión discontinua]() **Fecha: 22-10-2022**
 
-**Fecha: 22-10-2022**
+- :bar_chart: [Datos]()
 
-:pushpin:	[Taller 6: Aprendizaje de Máquina e Inferencia]()
+:pushpin:	[Taller 6: Aprendizaje de Máquina e Inferencia]() **Fecha: 05-11-2022**
 
-**Fecha: 05-11-2022**
+- :bar_chart: [Datos]()
 
+---
 
 ### Evaluaciones
 
@@ -72,6 +71,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - :pushpin: [Tarea 2](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea2): Se envia por correo hasta el 22/10/2022 :bangbang:
 
+---
 
 ### Referencias y enlaces 
 
@@ -93,6 +93,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
 
+---
 
 ### Comunidades y foros
 
@@ -100,6 +101,8 @@ Para los que alguna vez fuimos nuevos en RStudio sirve bastante ver las pregunta
 
 + [RStudio Community](https://community.rstudio.com/)
 + [Stackoverflow](https://stackoverflow.com/questions/tagged/r)
+
+---
 
 ### Otros enlaces de interés
 
