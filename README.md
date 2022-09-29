@@ -38,9 +38,9 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/74ejjqjlgtps1oo/AADjr_ljnwrqpFhH-bk5BwXIa?dl=0)
 
-:pushpin:	[Taller 3: Experimentos aleatorios]() **Fecha: 29-09-2022**
+:pushpin:	[Taller 3: Experimentos aleatorios](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_3_RE) **Fecha: 29-09-2022**
 
-- :bar_chart: [Datos]()
+- :bar_chart: [Datos](https://www.dropbox.com/sh/lqwddzjedt1z84z/AADF7N0ImN86nMfHdpb4gL-za?dl=0)
 
 :pushpin:	[Taller 4: Variables Instrumentales]() **Fecha: 08-10-2022**
 
