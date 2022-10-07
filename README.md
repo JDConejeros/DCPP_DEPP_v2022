@@ -77,11 +77,11 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 **Clases:**
 
-- S&W: Stock, J. and Watson, M., Introduction to Econometrics, 3rd edition. (Disponible en Biblioteca SJ-UC `r fa(name = "link", fill = "#3f82ef")` [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/1ujae15/alma990006269720203396))                     
+- S&W: Stock, J. and Watson, M., Introduction to Econometrics, 3rd edition. (Disponible en Biblioteca SJ-UC  [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/1ujae15/alma990006269720203396))                     
 
-- A&P: Angrist, J. D., & Pischke, J. S. (2014). Mastering 'metrics: The path from cause to effect. Princeton University Press. (Disponible en Biblioteca SJ-UC `r fa(name = "link", fill = "#3f82ef")` [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/bf8vpj/alma990006566900203396))
+- A&P: Angrist, J. D., & Pischke, J. S. (2014). Mastering 'metrics: The path from cause to effect. Princeton University Press. (Disponible en Biblioteca SJ-UC [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/bf8vpj/alma990006566900203396))
 
-- GMPRV: Gertler, P. et al. (2017). "La evaluación de Impacto en la Práctica", Segunda edición. Grupo Banco Mundial y Banco Inter Americano del Desarrollo. (Descargable `r fa(name = "link", fill = "#3f82ef")` [aquí](https://publications.iadb.org/es/la-evaluacion-de-impacto-en-la-practica-segunda-edicion))
+- GMPRV: Gertler, P. et al. (2017). "La evaluación de Impacto en la Práctica", Segunda edición. Grupo Banco Mundial y Banco Inter Americano del Desarrollo. (Descargable [aquí](https://publications.iadb.org/es/la-evaluacion-de-impacto-en-la-practica-segunda-edicion))
 
 **Talleres:**
 
