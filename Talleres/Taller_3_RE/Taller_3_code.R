@@ -396,6 +396,7 @@ means <- function(x, y, data){
            der=round(mean+ee*qnorm(.025,lower.tail=FALSE),2))
   return(tf1)
 }
+
 # Panel A Matemáticas
 A <- rbind(means(x=treat, y=m_theta_mle, data=baseline),
            means(x=treat, y=m_theta_mle, data=endline2))
@@ -418,8 +419,7 @@ panela <- A %>% ggplot(aes(y=mean, x=tipo, fill=as.factor(treat))) +
 panela
 
 # Unimos el gráfico (código para agregar el panel B)
-ggarrange(panela, ncol=2, nrow=1,  common.legend = TRUE, legend="bottom") 
-
+ggarrange(panela, panela, ncol=2, nrow=1,  common.legend = TRUE, legend="bottom") 
 
 ############################################################################################################################/
 ## 3.3 Tabla 2: ITT ------------
