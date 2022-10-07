@@ -42,9 +42,9 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/lqwddzjedt1z84z/AADF7N0ImN86nMfHdpb4gL-za?dl=0)
 
-:pushpin:	[Taller 4: Variables Instrumentales]() **Fecha: 08-10-2022**
+:pushpin:	[Taller 4: Variables Instrumentales](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_4_Dags_VI) **Fecha: 08-10-2022**
 
-- :bar_chart: [Datos]()
+- :bar_chart: [Datos](https://www.dropbox.com/sh/ninm1l4anzs437b/AADTtpFMykNGNhTDF4pYTAdJa?dl=0)
 
 :pushpin:	[Taller 5: Regresión discontinua]() **Fecha: 22-10-2022**
 
@@ -67,9 +67,9 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
   + Presentación final (30%). Fecha: 05/11/2022 en clase (09:00 a 12:15)
   + Trabajo final (30%). Fecha: 05/11/2022 hasta las 23:59 hrs.
 
-- :pushpin: [Tarea 1](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea1): Se envia por correo hasta el 08/10/2022 :bangbang:
+- :pushpin: [Tarea 1](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea1): Se envia por correo hasta el 09/10/2022 :bangbang:
 
-- :pushpin: [Tarea 2](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea2): Se envia por correo hasta el 22/10/2022 :bangbang:
+- :pushpin: [Tarea 2](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Tareas/Tarea2): Se envia por correo hasta el 23/10/2022 :bangbang:
 
 ---
 
