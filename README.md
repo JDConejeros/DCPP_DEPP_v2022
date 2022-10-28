@@ -62,6 +62,13 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 ---
 
+### Material Extra: Videos sesiones de los jueves
+
+Pueden acceder a los videos en el siguiente enlace [https://drive.google.com/drive/folders/1tEmrqjB9JKMmWkFppqaFyIxRky3DyUr_?usp=sharing](https://drive.google.com/drive/folders/1tEmrqjB9JKMmWkFppqaFyIxRky3DyUr_?usp=sharing)
+
+
+---
+
 ### Evaluaciones
 
 **Pablo Celhay** :mailbox_with_no_mail: pacelhay@uc.cl
