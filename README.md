@@ -22,7 +22,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 :file_folder: [Clase semana 4: Variables Instrumentales](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
 
-:file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana5)
+:file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
 
 :file_folder: [Clase semana 6: Matching, aprendizaje de Máquina e Inferencia Causal](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana6)
 
