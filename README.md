@@ -50,9 +50,9 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/uxt1imaa5dl5fdu/AAC2VtvsS8HBiVykYwe1bwNSa?dl=0)
 
-:pushpin:	[Taller 6: Aprendizaje de Máquina e Inferencia]() **Fecha: 05-11-2022**
+:pushpin:	[Taller 6: DID & ML(inicial)](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_6_DD) **Fecha: 05-11-2022**
 
-- :bar_chart: [Datos]()
+- :bar_chart: [Datos](https://www.dropbox.com/sh/0yx4klcv876ghla/AABI9lK98SZoMA-gZHowF7Dua?dl=0)
 
 ---
 
