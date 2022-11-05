@@ -24,11 +24,13 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 :file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
 
-:file_folder: [Clase semana 6: Matching, aprendizaje de Máquina e Inferencia Causal](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana6)
+:file_folder: [Clase semana 6: DID](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana5)
 
 ---
 
 ### Talleres
+
+**DEJA TUS COMENTARIOS SOBRE LOS TALLERES AQUÍ:** https://forms.gle/Lzr4gHuDXXf6H9DSA
 
 :pushpin:	[Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple). **Fecha: 20-08-2022**
 
